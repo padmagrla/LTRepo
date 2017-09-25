@@ -13,6 +13,7 @@ public class class1 {
      driver.manage().window().maximize();
 
      driver.findElement(By.xpath(".//*[@id='searchBtn']")).click();
+     System.out.println("new");
 	}
 
 }
