@@ -14,6 +14,7 @@ public class class1 {
 
      driver.findElement(By.xpath(".//*[@id='searchBtn']")).click();
      System.out.println("new");
+     System.out.println("second");
 	}
 
 }
